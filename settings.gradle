@@ -1,0 +1,2 @@
+include ':app', ':modulea'
+rootProject.name='MyApplication'
